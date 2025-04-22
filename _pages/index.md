@@ -22,7 +22,7 @@ permalink: /
 
 圧倒的歌唱力、愉快さで一気にファン増加
 
-!.[image].(/220422_GitHubPages/assets/images/
+![image](/220422_GitHubPages/assets/images/wwwwwwww.jpg)
 
 ### メジャーデビュー
 
