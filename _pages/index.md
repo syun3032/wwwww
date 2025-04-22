@@ -1,5 +1,5 @@
 ---
-title: "ここにページのタイトル"
+title: "音ノ乃のの"
 author: default
 permalink: /
 ---
